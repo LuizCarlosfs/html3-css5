@@ -1,6 +1,7 @@
 
 https://gustavoguanabara.github.io/html-css/exercicios/
-html5 - Modulo 1
+html5 - 
+MODULO 1
 https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 https://www.youtube.com/watch?v=UForX7ehChM    capitilo 4
 https://www.youtube.com/watch?v=E6CdIawPTh0
@@ -33,7 +34,8 @@ https://www.youtube.com/watch?v=byqhpuVpvEI   capítulo 12 -css
 https://www.youtube.com/watch?v=fzyab4P2pn8
 https://www.youtube.com/watch?v=-i1JVMspDJQ
 https://www.youtube.com/watch?v=xYLizixflv4
-Modulo 2
+
+MODULO 2
 https://www.youtube.com/watch?v=A8UNBs7nxw4   capítulo 13 - cores
 https://www.youtube.com/watch?v=uKjKnztS3cY
 https://www.youtube.com/watch?v=E2gaDa4ZaTc   circulo cromático/paleta de cores
@@ -98,3 +100,12 @@ https://www.youtube.com/watch?v=sRBSr9X5nAQ&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxb
 https://www.youtube.com/watch?v=c-MATEcIuPQ&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=11   clonar repositório e apagar no desktop após trabalho
 
 https://www.youtube.com/watch?v=sms5H5cKDy4&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=12    capitulo 19
+https://www.youtube.com/watch?v=9hV5oXi80-A&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=13
+https://www.youtube.com/watch?v=_5KoMUMCTG0&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=14
+https://www.youtube.com/watch?v=RpcmGqvzWxQ&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=15
+https://www.youtube.com/watch?v=lNaoi5AUCsc&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=16     Deixar a figura do tamanho da tela.
+https://www.youtube.com/watch?v=PzJwwA6LVts&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=17    
+https://www.youtube.com/watch?v=-w0Qo_qQiRg&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=18     centralização vertical de caixas
+
+https://www.youtube.com/watch?v=cz7AoKGcwlY&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=19     capitulo 20
+
