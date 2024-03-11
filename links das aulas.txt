@@ -5,24 +5,30 @@ MODULO 1
 https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 https://www.youtube.com/watch?v=UForX7ehChM    capitilo 4
 https://www.youtube.com/watch?v=E6CdIawPTh0
+
 https://www.youtube.com/watch?v=f6NTJdtEFOc    capitulo 5
 https://www.youtube.com/watch?v=nhMdFe3WwYc
+
 https://www.youtube.com/watch?v=bDULqeGEvAw    capítulo 6
 https://www.youtube.com/watch?v=xg-vHgLF0mI
 https://www.youtube.com/watch?v=8rkuukKA8a4
 https://www.youtube.com/watch?v=CwOmEetWMnU
 https://www.youtube.com/watch?v=1ZeettFfxys
+
 https://www.youtube.com/watch?v=aiOEBhozEOg    capitulo 7
+
 https://www.youtube.com/watch?v=HaSgt1hK2Fs    capitulo 8
 https://www.youtube.com/watch?v=T-d_hsO3hUI
 https://www.youtube.com/watch?v=8TgKFYkcO5Y
 https://www.youtube.com/watch?v=4ynvsrkamt8
 https://www.youtube.com/watch?v=JlE0pzESf5g    capítulo 9
 https://www.youtube.com/watch?v=Ez1kgIyoGuE
+
 https://www.youtube.com/watch?v=LeOVXQDsAIY    capítulo 10
 https://www.youtube.com/watch?v=LeLnlT-ZKw8
 https://www.youtube.com/watch?v=Jszz7M676y8
 https://www.youtube.com/watch?v=suL56Mdx22Y
+
 https://www.youtube.com/watch?v=E01LDVj0Rpg    capítulo 11
 https://www.youtube.com/watch?v=cAgkwPWE4hU
 https://www.youtube.com/watch?v=4OZYsFl-J9s
@@ -30,6 +36,7 @@ https://www.youtube.com/watch?v=DjOSM72cYac
 https://www.youtube.com/watch?v=TCeyIwFGkYo
 https://www.youtube.com/watch?v=3hng-hmSv2Y
 https://www.youtube.com/watch?v=gqrySQQzvvQ
+
 https://www.youtube.com/watch?v=byqhpuVpvEI   capítulo 12 -css
 https://www.youtube.com/watch?v=fzyab4P2pn8
 https://www.youtube.com/watch?v=-i1JVMspDJQ
@@ -107,5 +114,20 @@ https://www.youtube.com/watch?v=lNaoi5AUCsc&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxb
 https://www.youtube.com/watch?v=PzJwwA6LVts&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=17    
 https://www.youtube.com/watch?v=-w0Qo_qQiRg&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=18     centralização vertical de caixas
 
+capitulo 20 - Mini-projeto Cordel
 https://www.youtube.com/watch?v=cz7AoKGcwlY&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=19     capitulo 20
+https://www.youtube.com/watch?v=V8kF1WZisbg&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=20
+https://www.youtube.com/watch?v=e-HB90dx_CI&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=21
+https://www.youtube.com/watch?v=82vIYws5wF8&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=22      inicio CSS
+https://www.youtube.com/watch?v=0bBBaHNkzVE&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=23
+https://www.youtube.com/watch?v=UnYur3GqcDc&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=24
+https://www.youtube.com/watch?v=78hBqKLaWCU&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=25
 
+Capitulo 21 - tabelas
+https://www.youtube.com/watch?v=9IF4xvg5rWI&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=26       capitulo 21
+https://www.youtube.com/watch?v=lIiZu-94PBk&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=27
+https://www.youtube.com/watch?v=djvX6p9l-Rk&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=28
+https://www.youtube.com/watch?v=XmrNuqmmckM&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=29
+https://www.youtube.com/watch?v=ZnjU3PzhGi0&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=30
+https://www.youtube.com/watch?v=IYUiFRE5hpI&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=31     efeito zebrado
+https://www.youtube.com/watch?v=k277B58kC9c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=32
