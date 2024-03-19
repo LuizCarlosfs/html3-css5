@@ -1,4 +1,3 @@
-
 https://gustavoguanabara.github.io/html-css/exercicios/
 html5 - 
 MODULO 1
@@ -21,6 +20,7 @@ https://www.youtube.com/watch?v=HaSgt1hK2Fs    capitulo 8
 https://www.youtube.com/watch?v=T-d_hsO3hUI
 https://www.youtube.com/watch?v=8TgKFYkcO5Y
 https://www.youtube.com/watch?v=4ynvsrkamt8
+
 https://www.youtube.com/watch?v=JlE0pzESf5g    capítulo 9
 https://www.youtube.com/watch?v=Ez1kgIyoGuE
 
@@ -154,5 +154,42 @@ https://www.youtube.com/watch?v=mRhjlDN4Ezo&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh
 https://www.youtube.com/watch?v=dzhJsc1YszU&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=9
 
 Capitulo 23
-https://www.youtube.com/watch?v=hPze5_OYqBw&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=10
+https://www.youtube.com/watch?v=hPze5_OYqBw&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=10   capitulo 23
+https://www.youtube.com/watch?v=Rgji4o96ZhA&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=11
+https://www.youtube.com/watch?v=HUnltyZ9Rxg&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=12
+https://www.youtube.com/watch?v=Gx-zp0aaOto&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=13
+https://www.youtube.com/watch?v=1kOhJr4DXIg&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=14    botões na lateral
+https://www.youtube.com/watch?v=ar5UB2MxraE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=15
+https://www.youtube.com/watch?v=z30JMe5Cufs&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=16
+
+Capitulo 24
+https://www.youtube.com/watch?v=Wa1Ji2t2gmc&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=17    Capitulo 24
+https://www.youtube.com/watch?v=MqdSffM1HZc&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=18
+https://www.youtube.com/watch?v=rcaXavXsWGA&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=19
+https://www.youtube.com/watch?v=SinNyasc-zU&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=20
+https://www.youtube.com/watch?v=7P22zubU6i8&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=21
+https://www.youtube.com/watch?v=jX7v3lFdnvg&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=22   compatibilidade com navegadores
+https://www.youtube.com/watch?v=SRMEHklQC4M&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=23
+https://www.youtube.com/watch?v=iGDHFa4znHE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=24
+https://www.youtube.com/watch?v=acOURIAlB1Q&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=25
+https://www.youtube.com/watch?v=PFGmSEj2wIo&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=26
+https://www.youtube.com/watch?v=8b6K4UQDm7w&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=27
+
+Capitulo 25
+https://www.youtube.com/watch?v=9rY8V2rvP2o&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=28    capitulo 25
+https://www.youtube.com/watch?v=DMYlN21ajtU&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=
+https://www.youtube.com/watch?v=VGD5Uy1C8Cw&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=30
+https://www.youtube.com/watch?v=IRCDwdZLlX4&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=31
+https://www.youtube.com/watch?v=DkA_OQgjjKg&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=32
+https://www.youtube.com/watch?v=q6SZKTHUQiw&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=33
+https://www.youtube.com/watch?v=wU80w4xbNxQ&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=34
+https://www.youtube.com/watch?v=S8YXMqDsbhA&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=35
+https://www.youtube.com/watch?v=Zp3fnf99kTg&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=36
+https://www.youtube.com/watch?v=67W4NdxW1kw&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=37
+https://www.youtube.com/watch?v=Dd6Z3gkud18&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=38    encolher ou aumentar o Menu Hamburguer
+https://www.youtube.com/watch?v=T1rfhkmcH00&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=39
+https://www.youtube.com/watch?v=4NB0_DPpjak&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=40     fela de login responsiva
+
+Capitulo 26
+https://www.youtube.com/watch?v=4NB0_DPpjak&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=40      capitulo 26
 
