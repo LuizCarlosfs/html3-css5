@@ -192,4 +192,16 @@ https://www.youtube.com/watch?v=4NB0_DPpjak&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh
 
 Capitulo 26
 https://www.youtube.com/watch?v=4NB0_DPpjak&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=40      capitulo 26
+https://www.youtube.com/watch?v=AKj3L3ouVAk&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=41
+https://www.youtube.com/watch?v=Ec7Vu96wdpA&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=42
+https://www.youtube.com/watch?v=htekZ2wA7Zo&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=43   formulário e tag <i> ou <span>
+https://www.youtube.com/watch?v=JDS9ZLpoS6E&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=44   formatação do formulário
+https://www.youtube.com/watch?v=c2PePX8joKc&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&index=45
 
+FlexBox CSS
+https://www.youtube.com/watch?v=nAZW6ynuYyE
+https://www.alura.com.br/artigos/css-guia-do-flexbox
+
+CSS GRID
+https://www.youtube.com/watch?v=Aql4FvOKcho
+https://www.youtube.com/watch?v=6erYIJ4ei2s
